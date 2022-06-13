@@ -16,8 +16,6 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -29,20 +27,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Mobile View-](https://res.cloudinary.com/matehc/image/upload/v1655130516/Frontend%20Mentor/Huddle%20Challenge/Frontend_Mentor_Huddle_landing_page-S20_View_a5bipy.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+![Tablet View](https://res.cloudinary.com/matehc/image/upload/v1655130517/Frontend%20Mentor/Huddle%20Challenge/Frontend_Mentor_Huddle_landing_page-Ipad_View_hygbj5.png)
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+![Desktop View](https://res.cloudinary.com/matehc/image/upload/v1655130517/Frontend%20Mentor/Huddle%20Challenge/Frontend_Mentor_Huddle_landing_page-Desktop_View_ubsakg.png)
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/matehc/Huddle-landing-page_frontendMentor)
+- Live Site URL: [Site URL](https://matehc.github.io/Huddle-landing-page_frontendMentor/)
 
 ## My process
 
@@ -53,8 +48,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Flexbox
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 I learnt how to use the media query on various break-points.
@@ -63,9 +56,6 @@ I learnt how to use the media query on various break-points.
 @media () {}
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
@@ -79,14 +69,11 @@ Thought Process: All projects requires planning and a good thought process. I th
 
 -Accessibility: I need to start implementing accessibility practices in my projects
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 - [Design course html css crash course](https://www.youtube.com/watch?v=gXLjWRteuWI&t=837s) - This helped me in implementing the hero background image to cover its viewport. I really liked this hack and will use it going forward.
 - [Introduction To Responsive Web Design](https://www.youtube.com/watch?v=srvUrASNj0s&t=2978s) - This is an amazing tutorial on Responsive Web Design. It helped me in my approach to making this project responsive. I'd recommend it to anyone still learning this concept.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
@@ -94,9 +81,5 @@ Thought Process: All projects requires planning and a good thought process. I th
 - Frontend Mentor - [@matehc](https://www.frontendmentor.io/profile/@matehc)
 - Twitter - [@OkaforLucas](https://www.twitter.com/@OkaforLucas)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
 I'd like to say a big thank you to Kelechi, who helped me resolve the issue I had with my logo image in the footer section of this project.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
