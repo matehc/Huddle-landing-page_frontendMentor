@@ -61,7 +61,7 @@ I learnt how to use the media query on various break-points.
 
 Areas I would like to continually focus on in future are: 
 
-Thought Process: All projects requires planning and a good thought process. I think i need to work on this aspect in future in order for me achieve a better result in my future projects.
+-Thought Process: All projects requires planning and a good thought process. I think i need to work on this aspect in future in order for me achieve a better result in my future projects.
 
 -Bem Methodology: I understand the importance of using the BEM methodology and as such would like to improve on how i name my classes for better styling and reusability.
 
